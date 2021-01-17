@@ -1,5 +1,5 @@
 # youtube-converter
-Downloads and/or converts a given YouTube URL to user's drive
+Downloads 1080p videos and/or converts to audio, given a YouTube URL to user's drive
 
 To run program:
 - Open any code editor software
